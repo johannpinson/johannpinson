@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Johann's github stats](https://github-readme-stats.vercel.app/api?username=johannpinson&theme=gotham&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=johannpinson&repo=glsass&theme=gotham)](https://github.com/johannpinson/glsass)
+
 <!--
 **johannpinson/johannpinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
